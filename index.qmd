@@ -51,6 +51,7 @@ Note: Please do not submit a proposal without sending [me (Gerko) a notification
 ---
 
 # How many students / teaching hours
+Please check how many hours, if any, have been allocated to your name. It is not an issue to have students working on the same project with an individual twist. If you'd like to discuss this with me or if you'd like some advice, then I'd be more than happy to assist. 
 
 | students | hours |
 |----------|-------|
