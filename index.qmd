@@ -1,0 +1,83 @@
+---
+title: "ADS theses projects"
+author: "Social and Behavioural Sciences"
+format: 
+  html:
+    toc: true
+    toc-title: Skip to
+    theme: 
+    - superhero
+    - gerko.scss
+    fontsize: 1em
+---
+
+---
+
+# Timeline
+
+| When | What |
+|------|------|
+|   early January   | Submit thesis proposal     |
+| Jan-Feb | Thesis project collection and administration |
+| late February    |    Thesis topics communicated to students  |
+|  early March    |  Matching of students to topics    |
+|   late March   |  Supervisors prepare data and projects    |
+|   April   | Start of project; Supervisors and Studentes fill in supervision documents; Students fill in Osiris Case     |
+| late June | Thesis conference |
+| 1 July | Thesis hand in |
+| early July | Grading of theses by 1st and 2nd Supervisors |
+| September  |  Graduation ceremony $\star$ |
+
+$\star$ Note that it is requested that you attend the ceremony of the supervised students. If no-one in the supervision team can attend the graduation ceremony it is much appreciated if you provide a written laudatio to the exam committee to be read in your name. 
+
+---
+
+# Submitting a thesis topic
+
+Follow the procedure below:
+
+1.  Think of a thesis topic.
+2.  Find a 1st and 2nd grader for the topic. PhD students or PostDocs generally cannot serve as 1st or 2nd graders, but can of course act as daily supervisors. If finding a 2nd grader poses an issue, [please notify Gerko](mailto:G.Vink@uu.nl?subject=ADS Thesis grading); there is usually a carrousel of graders for ADS theses topics in Social and Behavioural Sciences.
+3.  Notify [Gerko](mailto:G.Vink@uu.nl?subject=Thesis project proposed) with the title of your topic. This allows for smooth and swift financial and administrative management.
+4.  Use the information and [form](https://survey.uu.nl/jfe/form/SV_eWnQIj2ppzdt2Vo) in the table below to submit your thesis proposal to the graduate school of Science.
+
+| \# students | what              | when                      | where |
+|-------------|-------------------|---------------------------| ----- |
+| 3           | A thesis proposal | beginning of January 2023 | [this form](https://survey.uu.nl/jfe/form/SV_eWnQIj2ppzdt2Vo) |
+
+Note: Please do not submit a proposal without sending [me (Gerko) a notification](mailto:G.Vink@uu.nl?subject=Thesis project proposed) of the title of your proposed topic. 
+
+---
+
+# How many students / teaching hours
+
+| students | hours |
+|----------|-------|
+| 1        | 25    |
+| 2        | 50    |
+| 3        | 75    |
+
+: Financial compensation (in teaching hours) per student. This time serves as compensation for supervision and grading and all other responsibilities involved in thesis project supervision.
+
+All responsible staff at the Methodology and Statistics department have had 75 hours allocated to their teaching tasks. This would accommodate 3 thesis students. Please contact your educational management if you're in doubt about the amount of assigned hours or compensation. 
+
+---
+
+# Prepare before thesis starts
+
+I have outlined in the timetable above that some preparation is required from the supervisors. In short, it is paramount that for the relative short duration of the projects (10 weeks) students can start right away. This means that data and access to data should be readily available at the start of the project, as should any code or requirements beyond the curriculum. 
+
+---
+
+# Frequently Asked Questions
+
+I will further fill this section when more questions come in. If you have a question, do not hesitate to ask [Gerko](mailto:G.Vink@uu.nl?subject=Question about ADS theses)
+
+1. I have no teaching hours allocated. Can I also submit a thesis proposal?
+
+* Sure, but you should be absolutely certain that your educational management team agrees and that your task distribution would allow for it. 
+
+2. I am asked to act as the (2nd) grader for a thesis, do I have to? 
+
+* If you have hours allocated to your name, then yes. If not, then it depends on your personal preference. I (Gerko) usually act as the 1st or 2nd grader for all projects that involve missing data, even if I don't act as the supervisor on any of the thesis projects. But that is voluntarily. Please bare in mind that it is not an option to propose a project and supervise it, without acting as a grader. You should then allocate some hours to someone who would be willing to grade. 
+
