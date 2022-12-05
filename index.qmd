@@ -14,6 +14,7 @@ format:
 ---
 
 # Timeline
+New this year is the ADS thesis conference in the end of June. Students will present their theses there, which solves many of the grading and presentation issues we've experienced in previous years. 
 
 | When | What |
 |------|------|
@@ -22,7 +23,7 @@ format:
 | late February    |    Thesis topics communicated to students  |
 |  early March    |  Matching of students to topics    |
 |   late March   |  Supervisors prepare data and projects    |
-|   April   | Start of project; Supervisors and Studentes fill in supervision documents; Students fill in Osiris Case     |
+|   April   | Start of project; Supervisors and Students fill in supervision documents; Students fill in Osiris Case     |
 | late June | Thesis conference |
 | 1 July | Thesis hand in |
 | early July | Grading of theses by 1st and 2nd Supervisors |
